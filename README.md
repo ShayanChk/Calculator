@@ -1,10 +1,12 @@
 Objectives
+
 • Create First Android application and become familiar with Android Studio.
 • Practice designing UI using Linear Layout and APP-recourses.
 • Java Review by creating java classes and functions for the app logic.
 • Connecting between xml files and java classes
 
 Simple Calculator - logic
+
 • Simple Calculator app need a logic to be 
 placed in a Java Class called Calculator-Brain.
 • You have to manage the logic of this calculator 
